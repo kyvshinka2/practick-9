@@ -1,0 +1,12 @@
+html {
+    background-image: url('../img/zakat.png');
+    background-size: 100%;
+}
+
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 450px;
+    align-items: flex-end;
+}

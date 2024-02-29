@@ -1,0 +1,40 @@
+html {
+    background-image: url('../img/fonFish.avif');
+    background-size: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.background {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.personal {
+    text-align: left;
+    margin-top: 150px;
+    height: 100%;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h1 {
+    font-size: 80px;
+    color: white;
+}
+
+.text p {
+    font-size: 48px;
+    color: red;
+}
+
+.text a {
+    text-decoration: none;
+    font-size: 48px;
+    color: aqua;
+}
